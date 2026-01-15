@@ -1,2 +1,2 @@
-# OpenCV_High_Resolution_Colorization
+# OpenCV_High_Resolution_Geo_Colorization
 The strategy for coloring high-resolution black-and-white Mars imagery using low-resolution color data. The approach combines high-performance geospatial libraries (Rasterio) with computer vision libraries (OpenCV, scikit-image) to handle alignment, color separation, and filtering. The core idea is to use the L*a*b* color space to separate luminance (detail) from chrominance (color) and apply histogram matching for color consistency.
